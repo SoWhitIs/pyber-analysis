@@ -79,7 +79,7 @@ It is possible, if we assess ways to hire more drivers, or "persuade" drivers fr
 
  Company engagement and retention efforts will likely help ensure the continued success of PyBer. 
  
- The number of rides in Rural areas as it compares to drivers, suggest there is is a _need_ for PyBer. 
+ The number of rides in Rural areas as it compares to drivers, suggest there is a _need_ for PyBer. 
 
  The perfect combination of pricing, location, or city availability, even the time of year would determine how best to provide the utmost of service to communities formerly and notably underserved.  
 

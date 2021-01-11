@@ -1,4 +1,4 @@
-# __ || PyBer, Ride-Share App  Analysis
+# __Let's Take A Ride_ || PyBer, Ride-Share App  Analysis
 
 
 ## Overview of Project
@@ -33,7 +33,7 @@ When reviewing the _PyBer Summary_ as a whole we can see (chart below):
 
 * While Rural ridership _is_ significantly less than that of the Urban ridership, on average , fares cost **$10 more**. 
 
-* The amount of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. _(Noted impact, Fig. 7, right)  <img align="right" src="analysis/Fig7.png">
+* The amount of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. _(Noted impact, Fig. 7, right)_ <img align="right" src="analysis/Fig7.png">
 
 
 * In Suburban Cities, on average drivers made about **$9 more _than_** the cost of the average ride. 

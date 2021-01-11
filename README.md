@@ -16,9 +16,7 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 ### Resources
 • Data Source (s): city_data.csv, ride_data.csv
 
-• Software: Python 3.7.6 64-bit; Python Libraries: Pandas, Matplotlib, SciPy; Jupyter Notebook; Anaconda
-
-
+• Software: Python 3.7.6 64-bit | Python Libaries:Pandas,  Matplotlib, SciPy | Jupyter Notebook | Anaconda
 
 ## Results
 
@@ -29,33 +27,34 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
   <img src="additionalresources/pyber_summary.png" />
 </p>
 
-When reviewing the _PyBer Summary_ as a whole we can see (chart above):
-
-* While Rural ridership _is_ significantly less than that of the Urban ridership, on average , fares cost **$10 more**. 
-
-* The amount of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. _(Noted impact, Fig. 7, right)_ <img align="right" src="analysis/Fig7.png">
+**When reviewing the _PyBer Summary_ as a whole _we can see_ (chart below):**
 
 
-* In Suburban Cities, on average drivers made about **$9 more _than_** the cost of the average ride. 
+* While Rural ridership _is_ signifcanty less than that of the Urban ridership, on average , fares cost **$10 more**. 
 
+* The amount of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. (noted imapact in Figure 7, right)  <img align="right" src="analysis/Fig7.png">
+
+
+* In Subrburan Cities, on average drivers made about **$9 more _than_** the cost of the average ride. 
 
 ***
 ***
-On the  hand, when review of data illustrated in the below line graph for fares by city type we can see:
+ **On the  hand, when review of data illustrated in the below _PyBer  Total Fares, Per City Type, (Resampled, By Week)_ line graph _we can see_**:
 
-* Ridership in _all_ geographic regions took a dip at the start of March, having had a steady climb between the second to third weeks
-in February 2019. 
+* Ridership in _all_ geographic regions took a dip in at the start of March, having had a steady climb between the second to third weeks
+in  February 2019. 
 
 * Ridership in both Rural and Urban Cities increased at the end of March, with the two combined, yeilding revenues of over $2500.
 
-* Suburban ridership remained rather consistent  in generated revenues, ranging from  $500 to $1500. 
+* Suburban ridership remain rather consistent  in generated revenues, ranging from  $500 to $1500. 
 
 <p align="center">
-  <i><b> PyBer Total Fares, Per City Type, (Resampled, By Week) </b></i> 
+  <i><b> PyBer  Total Fares, Per City Type, (Resampled, By Week) </b></i> 
  </p>
 <p align="center">
   <img src="analysis/PyBer_fare_summary.png" />
 </p>
+
 
 
 ## Summary 

@@ -1,4 +1,4 @@
-# __Let's Take A Ride_ || PyBer, Ride-Share App  Analysis
+# _Let's Take A Ride_ || PyBer, Ride-Share App  Analysis
 
 
 ## Overview of Project
@@ -29,7 +29,7 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
   <img src="additionalresources/pyber_summary.png" />
 </p>
 
-When reviewing the _PyBer Summary_ as a whole we can see (chart below):
+When reviewing the _PyBer Summary_ as a whole we can see (chart above):
 
 * While Rural ridership _is_ significantly less than that of the Urban ridership, on average , fares cost **$10 more**. 
 
@@ -40,8 +40,16 @@ When reviewing the _PyBer Summary_ as a whole we can see (chart below):
 
 
 ***
-On the  hand, as in review of the below line graph for fares by city type we can see:
-* Ridership in _all_ geographic regions took a dip in March, having had a steady climb from mid-late February 2019. 
+***
+On the  hand, when review of data illustrated in the below line graph for fares by city type we can see:
+
+* Ridership in _all_ geographic regions took a dip at the start of March, having had a steady climb between the second to third weeks
+in February 2019. 
+
+* Ridership in both Rural and Urban Cities increased at the end of March, with the two combined, yeilding revenues of over $2500.
+
+* Suburban ridership remained rather consistent  in generated revenues, ranging from  $500 to $1500. 
+
 <p align="center">
   <i><b> PyBer Total Fares, Per City Type, (Resampled, By Week) </b></i> 
  </p>

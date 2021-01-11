@@ -41,7 +41,7 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 ***
  **On the other hand, when review of data illustrated in the below _PyBer  Total Fares, Per City Type, (Resampled, By Week)_ line graph _we can see_**:
 
-* Ridership in _all_ geographic regions took a dip in at the start of March, having had a steady climb between the second to third weeks in February 2019. 
+* Ridership in _all_ geographic regions took a dip in at the end of February after having had a steady climb in previous weeks. 
 
 * Ridership in both Rural and Urban Cities increased at the end of March, with the two combined, yielding revenues of over $2500.
 
@@ -57,12 +57,32 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 </p>
 
 
-
 ## Summary 
-March has the lowest, seen a decline.  
-over more incentives.
-offer drivers incentives to work in rural areas. opportunities for advancement
+ ### Recommendations:
+
+  **Decline in Late February**
+ 
+As noted, March across Rural, Suburban, Urban cities experienced a decline in ridership in the last week of February (2019). However, there is no indication as to why that might be, explicitly. Perhaps, another analysis to uncover external factors that might have caused this decline would provide clearer insight. 
+
+Perhaps, marketing campaigns, too, offering promotions on discounted rides during this time of year, would remedy or impeded this decline in the imminent future. 
+
+**Recruiting Efforts**
+
+Urban cities have nearly twice as many drivers than there are rides, where drivers earn nearly less $39 on average per ride. 
+
+While the number of rides in Rural areas are greater than the number of drivers, it remains the most expensive on average per ride. 
+
+It is possible, if we assess ways to hire more drivers, or "persuade" drivers from the Urban cities to work in Rural (and Suburban) cities we can in turn create sustaining employment opportunities, as well decrease the cost on average per ride. This decrease in pricing, too, could sway even more riders, particularly, in rural areas. 
+
+
+**Accessibility**
+
+ Company engagement and retention efforts will likely help ensure the continued success of PyBer. 
+ 
+ The number of rides in Rural areas as it compares to drivers, suggest there is is a _need_ for PyBer. 
+
+ The perfect combination of pricing, location, or city availability, even the time of year would determine how best to provide the utmost of service to communities formerly and notably underserved.  
+
 
 #### Author
 _Whitney D. Gardner_
-

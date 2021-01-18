@@ -18,6 +18,8 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 
 • Software: Python 3.7.6 64-bit | Python Libaries: Pandas,  Matplotlib, SciPy | Jupyter Notebook | Anaconda
 
+* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
+
 ## Results
 
 <p align="center">

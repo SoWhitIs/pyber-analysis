@@ -34,7 +34,8 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 
 * While Rural ridership _is_ significantly less than that of the Urban ridership, on average, fares cost **$10 more**. 
 
-* The number of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. _(Noted impact in Figure 7, right) _  <img align="right" src="analysis/Fig7.png">
+* The number of drivers in Urban Cities **far exceed** riders in the same geographic region, edging out with over 50%. 
+_(Noted impact in Figure 7, right)_  <img align="right" src="analysis/Fig7.png">
 
 
 * In Suburban Cities, on average drivers made about **$9 more _than_** the cost of the average ride. 

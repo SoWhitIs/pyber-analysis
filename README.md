@@ -16,10 +16,9 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 ### Resources
 • Data Source (s): city_data.csv, ride_data.csv
 
-• Software: Python 3.7.6 64-bit | Python Libaries: Pandas,  Matplotlib, SciPy | Jupyter Notebook | Anaconda
+• Software: Python 3.7.6 64-bit | Python Libaries: Pandas,  Matplotlib, SciPy | Jupyter Notebook** | Anaconda
 
-* Data Access: Workaround, [Project Jupyter: jupyter nbviewer](nbviewer.jupyter.org), a Jupytner Notebook renderer **
-
+  •	Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
 ## Results
 
 <p align="center">

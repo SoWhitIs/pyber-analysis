@@ -64,7 +64,7 @@ _(Noted impact in Figure 7, right)_  <img align="right" src="analysis/Fig7.png">
 ## Summary 
  ### Recommendations:
 
-  **Decline in Late February**
+  **Decline In Late February**
  
 As noted, March across Rural, Suburban, Urban cities experienced a decline in ridership in the last week of February (2019). However, there is no indication as to why that might be, explicitly. Perhaps, another analysis to uncover external factors that might have caused this decline would provide clearer insight. 
 

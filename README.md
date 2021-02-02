@@ -19,6 +19,8 @@ Analysis is accompanied by visual aids as can be seen below and found [here.](ht
 * Software: Python 3.7.6 64-bit | Python Libaries: Pandas,  Matplotlib, SciPy | Jupyter Notebook** | Anaconda
 
   *  Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+     *    Data may not display properly on GitHub, please use provided workaround
+
 ## Results
 
 <p align="center">

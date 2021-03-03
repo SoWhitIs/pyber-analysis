@@ -43,7 +43,7 @@ _(Noted impact in Figure 7, right)_  <img align="right" src="analysis/Fig7.png">
 
 ***
 ***
- **On the other hand, when review of data illustrated in the below _PyBer  Total Fares, Per City Type, (Resampled, By Week)_ line graph _we can see_**:
+ **On the other hand, when reviewing of data illustrated in the below, _PyBer  Total Fares, Per City Type, (Resampled, By Week)_ line graph _we can see_**:
 
 * Ridership in _all_ geographic regions took a dip in at the end of February after having had a steady climb in previous weeks. 
 

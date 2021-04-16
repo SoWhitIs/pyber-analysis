@@ -87,6 +87,7 @@ It is possible, if we assess ways to hire more drivers, or "persuade" drivers fr
 
  The perfect combination of pricing, location, or city availability, even the time of year would determine how best to provide the utmost of service to communities formerly and notably underserved.  
 
+---
 
 #### Author
 _Whitney D. Gardner_
